@@ -58440,7 +58440,7 @@ return A.a1(A.MJ(q),$async$op)
 case 2:if(!b)throw A.c("Could not launch "+A.h(q))
 return A.X(null,r)}})
 return A.Y($async$op,r)},
-H(a){var s=null,r=t.E,q=A.a([A.a0D(A.a8c(B.A6,this.gRY()),"Press to open my patreon. I'd love any help.",B.b1),A.a0D(A.a8c(B.A4,this.gRX()),"Press to get my github.",B.b1),A.a0D(A.a8c(B.A9,this.gRW()),"Press to open my resume.",B.b1)],r),p=A.a([A.abb("assets/images/i1.jpg"),A.abb("assets/images/i2.jpg")],r),o=$.a9
+H(a){var s=null,r=t.E,q=A.a([A.a0D(A.a8c(B.A6,this.gRY()),"Press to open my patreon. I'd love any help.",B.b1),A.a0D(A.a8c(B.A4,this.gRX()),"Press to get my github.",B.b1),A.a0D(A.a8c(B.A9,this.gRW()),"Press to open my resume.",B.b1)],r),p=A.a([A.abb("assets/images/1.jpg"),A.abb("assets/images/2.jpg")],r),o=$.a9
 return new A.Du(new A.Dy(A.ai_(A.a([A.aaY(new A.qD(new A.O4(400,!0,B.lz),p,new A.O3(new A.aR(new A.aa(o,t.dX),t.Fe)),2,s),6),A.aaY(A.ake("Press the buttons to learn more about me! I'll be adding more features soon!",B.Iv),1)],r),B.r_),new A.Dv(B.Kp,q,s),s),!1,s)}}
 A.a6Q.prototype={
 $0(){var s=t.m7
